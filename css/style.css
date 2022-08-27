@@ -232,6 +232,10 @@ span {
     .main__img {
         max-height: 500px;
     }
+    
+    #img__grid {
+        margin-bottom: 42px;
+    }
 
     h1 {
         font-size: 62px;
@@ -250,6 +254,10 @@ span {
         padding: 0 25px;
         margin-left: auto;
         margin-right: auto;
+    }
+
+    .header {
+        margin: 45px 0;
     }
 
     .main__content {
@@ -295,9 +303,5 @@ span {
 
     #img__grid {
         margin-bottom: 42px;
-    }
-    
-    .header {
-        margin: 45px 0;
     }
 }
