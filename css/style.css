@@ -185,6 +185,10 @@ span {
     -webkit-transition: all 0.3s ease;
 }
 
+#img__grid {
+    margin-bottom: 42px;
+}
+
 .btn__portfolio:hover {
     color: #000000;
     background-color: #FFD766;
@@ -231,10 +235,6 @@ span {
 
     .main__img {
         max-height: 500px;
-    }
-    
-    #img__grid {
-        margin-bottom: 42px;
     }
 
     h1 {
