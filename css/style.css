@@ -296,4 +296,8 @@ span {
     #img__grid {
         margin-bottom: 42px;
     }
+    
+    .header {
+        margin: 45px 0;
+    }
 }
