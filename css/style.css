@@ -2,6 +2,18 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+::-webkit-scrollbar {
+    width: 4px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(160, 160, 160);
+}
+
 body {
     padding: 0px;
     margin: 0px;
